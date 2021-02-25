@@ -1,4 +1,10 @@
 
+
+body{
+
+  padding:0px;
+  margin:0px;
+}
 .linkStyle::before{
     content:"heading" ;
     color:blue;
